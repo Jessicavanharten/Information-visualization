@@ -1,12 +1,13 @@
 {
-  "name"         : "node-web-scrape",
-  "version"      : "0.0.1",
-  "description"  : "Scrape le web.",
-  "main"         : "server.js",
-  "author"       : "Scotch",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest"
+  "name": "Information-visualization",
+  "version": "0.0.1",
+  "description": "School project.",
+  "main": "server.js",
+  "author": "Jessica van Harten",
+  "dependencies": {
+    "cheerio": "latest",
+    "d3": "^4.4.0",
+    "express": "latest",
+    "request": "latest"
   }
 }
